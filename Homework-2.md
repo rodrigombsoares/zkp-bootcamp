@@ -15,13 +15,13 @@
 		Now we can prove by testing all:
 			1^2≡1, 3^2=9≡1, 5^2=25≡1, 7^2=49≡1 (mod 8)
 		```
-	- **b) what about even squares (mod 8)?**
+	- **b) what about even squares (mod 8)?**  
 		Besides 2, every even number squares are ≡0 (mod 8)
 2. **Try out the vanity bitcoin address example at asecurity or the [Ethereum](https://vanity-eth.tk/) version.** 
 3. **What do you understand by** 
 	- **O(n)**
 	- **O(1)**
 	- **O(log n)**
-		Big O notations defines asymptote for functions, characterizes functions according to their growth rates. O(n)>O(log n)>O(1)
-	**For a proof size, which of these would you want?**
+		Big O notations defines asymptote for functions, characterizes functions according to their growth rates. O(n)>O(log n)>O(1)  
+	**For a proof size, which of these would you want?**  
 		The best size of a proof would be O(1).
