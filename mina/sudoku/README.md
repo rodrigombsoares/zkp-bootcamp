@@ -1,4 +1,4 @@
-# Mina zkApp: PROJECT_NAME
+# Mina zkApp: Sudoku
 
 This template uses TypeScript.
 
