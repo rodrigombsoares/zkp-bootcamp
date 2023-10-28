@@ -10,6 +10,7 @@ You need to have rustup installed.
 Follow [Understanding the RISC Zero zkVM Starter Template](https://www.risczero.com/docs/examples/understanding_template)
 
 ## Solution
+Done at [/risczero](risczero/README.md)
 - First, got a deeper understanding of RISC Zero following [this playlist](https://www.youtube.com/watch?v=cLqFvhmXiD0&list=PLcPzhUaCxlCgig7ofeARMPwQ8vbuD6hC5&index=2)  
 - The [5th video](https://youtu.be/Yg_BGqj_6lg?si=PJViQ4735iDnRJEN) has an awesome explanation on how to use the template  
 
@@ -20,4 +21,3 @@ Follow [Understanding the RISC Zero zkVM Starter Template](https://www.risczero.
 	`let digest: Digest = from_slice(&receipt.journal).unwrap();`
 
 - Check online to see if the printed sha is correct. And it is :) 
-- 
